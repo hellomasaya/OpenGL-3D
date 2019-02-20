@@ -10,13 +10,13 @@ Install the development packages of the following libraries:
 
 **Run the code:**
   
-  cd path/to/project
-  mkdir build
-  cd build
-  cmake ..
-  # Run from here after editing
-  make
-  ./graphics_asgn1
+    cd path/to/project
+    mkdir build
+    cd build
+    cmake ..
+    # Run from here after editing
+    make
+    ./graphics_asgn1
   
 ##Controls:
 
