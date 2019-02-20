@@ -1,8 +1,23 @@
 Assignment2
 =========================
 
-##Harshita Sharma (20171099)
+##Harshita Sharma
 
+Install the development packages of the following libraries:
+1. GLEW
+2. GLFW3
+3. GLM
+
+**Run the code:**
+  
+  cd path/to/project
+  mkdir build
+  cd build
+  cmake ..
+  # Run from here after editing
+  make
+  ./graphics_asgn1
+  
 ##Controls:
 
 ###Airplane Movement ::
