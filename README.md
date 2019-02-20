@@ -57,12 +57,12 @@ Install the development packages of the following libraries:
 ###Fuel-ups:
 
 - Initial fuel: 60
-- ​	**Fuel-up** : Diamond shaped(+10)
+- ​	**Fuel-ups** : Diamond shaped(+10)
 - ​	**Parachutes** : Collision with missile increases fuel(+2)
-- ​	**Smoke Ring** : Collision increases fuel(+50)
+- ​	**Smoke Rings** : Collision increases fuel(+50)
 
 ###Dashboard:(BONUS)
-- Altitute
+- Altitude
 - Fuel
 - Checkpoints left
 - Compass
