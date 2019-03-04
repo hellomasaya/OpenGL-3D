@@ -31,7 +31,7 @@ Install the development packages of the following libraries:
 - ​	**W** : move up
 - ​	**S** : move down.
 
-###Views ::
+### Views :
 
 - ​	**1** : follow-cam view
 - ​	**2** : plane-view
@@ -54,7 +54,7 @@ Install the development packages of the following libraries:
 - ​	**Parachutes** : Collision decreases fuel(-5)
 - ​	**Volcano** : Collision ends game - NO FLYING ZONE
 
-###Fuel-ups:
+### Fuel-ups:
 
 - Initial fuel: 60
 - ​	**Fuel-ups** : Diamond shaped(+10)
