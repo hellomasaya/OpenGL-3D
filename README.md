@@ -1,7 +1,7 @@
 Assignment2
 =========================
 
-##Harshita Sharma
+## Harshita Sharma
 
 Install the development packages of the following libraries:
 1. GLEW
@@ -18,9 +18,9 @@ Install the development packages of the following libraries:
     make
     ./graphics_asgn1
   
-##Controls:
+## Controls:
 
-###Airplane Movement ::
+### Airplane Movement ::
 
 - ​	**left** : turn left(yaw)
 - ​	**right** : turn right(yaw)
@@ -38,17 +38,17 @@ Install the development packages of the following libraries:
 - ​	**3** : top-view
 - ​	**4** : tower-view
 
-###Missile and Bomb ::
+### Missile and Bomb ::
 
 - ​	**M** : Throw missile
 - ​	**G** : Throw bomb
 
-###Checkpoints:
+### Checkpoints:
 
 - 8 checkpoints to conquer.
 - Arrow above checkpoint(visible from far) guides airplane.
 
-###Enemies:
+### Enemies:
 
 - ​	**Canons** : Throws fireballs and decreases fuel(-10)
 - ​	**Parachutes** : Collision decreases fuel(-5)
@@ -61,12 +61,12 @@ Install the development packages of the following libraries:
 - ​	**Parachutes** : Collision with missile increases fuel(+2)
 - ​	**Smoke Rings** : Collision increases fuel(+50)
 
-###Dashboard:(BONUS)
+### Dashboard:(BONUS)
 - Altitude
 - Fuel
 - Checkpoints left
 - Compass
 
-###BONUS:
+### BONUS:
 - Comapss
 - Transparency
