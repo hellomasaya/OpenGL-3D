@@ -68,5 +68,5 @@ Install the development packages of the following libraries:
 - Compass
 
 ### BONUS:
-- Comapss
+- Compass
 - Transparency
